@@ -1,33 +1,38 @@
 body{
-	background-color: #373F27;
+	background-color: #CDA34F;
+	/*#373F27;*/
 	font-family: 'Playfair Display', sans-serif;
-	color: #E9E7DA;
+	color: #373F27;
 }
 
 .row #mainheader {
 	font-family: 'Montserrat';
 	font-size: 800;
-	color: #CDA34F;
+	color: #636B46;
 }
 
 .row .col-md-12 .subheader {
 	font-family: 'Montserrat';
 	font-size: 600;
 	font-style: italic;
-	color: #CDA34F;
+	color: #636B46;
+}
+.small{
+	color: #636B46;
 }
 
+
 .navbar{
-	background-color: #636B46;
-	border-color: #636B46;
+	background-color: #E9E7DA;
+	border-color: #E9E7DA;
 }
 
 .navbar-inverse .navbar-nav>li>a{
-	color: #E9E7DA;
+	color: #373F27;
 }
 
 .navbar-inverse .navbar-toggle{
-	border-color: #636B46;
+	border-color: #E9E7DA;
 }
 .portfolio-space{
 	margin-bottom:50px;
