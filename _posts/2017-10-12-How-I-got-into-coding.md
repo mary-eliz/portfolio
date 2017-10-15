@@ -1,9 +1,0 @@
---
-layout: position
-title: How I Started Coding
---
-
-#My journey into C0DING
-
-
-To be honest, I don't really remember how I got into coding. I took coding classes in both high school and college. In college I learned some python as I took a computer science class, but in high school I don't necessarily remember which coding language we learned. All I know is that I've had exposure to it here and there. I think I got into coding because I wanted to create my own website. I knew there was a way I could just go into a website and just add things here and there (such as **Godaddy**, **Wix**) but I wanted to create it myself, completely from scratch. That's when I started looking around for books to learn myself. I was having a conversation with my cousin who reminded me about Code Academy. From there I started learning the basics, HTML, CSS. After taking some of those courses I saw an ad on their website-- becoming a free lance web developer. It would teach me about HTML, CSS and Javascript and provide a mentor. I took the course and I think I learned and have a very strong foundation HTML and CSS. The projects I created were fun. In the description of he course it said it would teach the basics of Javascript and Bootstrap, but I personally felt it lacked. Most of the course we learned about HTML, CSS and how to work both of them together but crammed Javascript and Bootstrap the last week of the course. I was disappointed but despite that last week, throughout the entire course I felt like I was learning a lot. This encouraged me to want to learn more. From there, I decided I  would do look into bootcamps. I knew it would have to be remote as I couldn't afford to go somewhere for a couple of months without a job. After a lot of research I felt Bloc would be the best fit for me because it was remote and because it was as expensive as the others.
